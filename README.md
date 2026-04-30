@@ -1,0 +1,1 @@
+This project predicts weather risk levels using machine learning. It analyzes parameters such as temperature, humidity, wind speed, visibility, and pressure to classify conditions into Low, Moderate, and High risk.
